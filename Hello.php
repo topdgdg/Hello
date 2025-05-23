@@ -1,5 +1,5 @@
 <?php
-$hello = 'Gremio nao ganha porra nehuma';
+$hello = 'hello world';
 
 echo $hello;
 ?>
